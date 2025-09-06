@@ -1,0 +1,217 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "/images/im1.jpg"
+      },
+      "image": "/images/im1.jpg",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-09-01T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "meera_art",
+        "profile_pic": "/images/im2.jpg"
+      },
+      "image": "/images/im2.jpg",
+      "caption": "Finished my new artwork 🎨✨ #Creative",
+      "likes": 340,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Looks so beautiful 👏"
+        },
+        {
+          "user": "sana_fit",
+          "comment": "Wow your talent is next level!"
+        }
+      ],
+      "timestamp": "2025-09-02T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "raj_travel",
+        "profile_pic": "/images/im3.jpg"
+      },
+      "image": "/images/im3.jpg",
+      "caption": "Beach vibes 🌊☀️ #TravelDiaries",
+      "likes": 220,
+      "comments": [
+        {
+          "user": "meera_art",
+          "comment": "This place looks dreamy 😍"
+        },
+        {
+          "user": "aish_reads",
+          "comment": "Take me there!!"
+        }
+      ],
+      "timestamp": "2025-09-02T17:45:00Z"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "sana_fit",
+        "profile_pic": "/images/im4.jpg"
+      },
+      "image": "/images/im4.jpg",
+      "caption": "Morning workout done ✅💪 #FitnessLife",
+      "likes": 180,
+      "comments": [
+        {
+          "user": "raj_travel",
+          "comment": "Inspiring 💯"
+        },
+        {
+          "user": "alice_wonder",
+          "comment": "You motivate me to start running!"
+        }
+      ],
+      "timestamp": "2025-09-03T06:20:00Z"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "aish_reads",
+        "profile_pic": "/images/im5.jpg"
+      },
+      "image": "/images/img5.jpg",
+      "caption": "Weekend book stack 📚 #ReadersClub",
+      "likes": 95,
+      "comments": [
+        {
+          "user": "sana_fit",
+          "comment": "Which one should I start with?"
+        },
+        {
+          "user": "john_doe",
+          "comment": "Books & coffee = perfect combo ☕📖"
+        }
+      ],
+      "timestamp": "2025-09-03T20:00:00Z"
+    }
+  ],
+
+  "profile": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "profile_pic": "/images/im1.jpg"
+    },
+    {
+      "id": 2,
+      "username": "meera_art",
+      "profile_pic": "/images/im2.jpg"
+    },
+    {
+      "id": 3,
+      "username": "raj_travel",
+      "profile_pic": "/images/im3.jpg"
+    },
+    {
+      "id": 4,
+      "username": "sana_fit",
+      "profile_pic": "/images/im4.jpg"
+    },
+    {
+      "id": 5,
+      "username": "aish_reads",
+      "profile_pic": "/images/im5.jpg"
+    }
+  ],
+
+  "suggetion": [
+    {
+      "id": 101,
+      "username": "john_doe",
+      "profile_pic": "/images/im1.jpg"
+    },
+    {
+      "id": 102,
+      "username": "meera_art",
+      "profile_pic": "/images/im2.jpg"
+    },
+    {
+      "id": 103,
+      "username": "raj_travel",
+      "profile_pic": "/images/im3.jpg"
+    },
+    {
+      "id": 104,
+      "username": "sana_fit",
+      "profile_pic": "/images/im4.jpg"
+    },
+    {
+      "id": 105,
+      "username": "aish_reads",
+      "profile_pic": "/images/im5.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "/images/im1.jpg"
+      },
+      "image": "/images/im1.jpg"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "meera_art",
+        "profile_pic": "/images/im2.jpg"
+      },
+      "image": "/images/im2.jpg"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "raj_travel",
+        "profile_pic": "/images/im3.jpg"
+      },
+      "image": "/images/im3.jpg"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "sana_fit",
+        "profile_pic": "/images/im4.jpg"
+      },
+      "image": "/images/im4.jpg"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "aish_reads",
+        "profile_pic": "/images/im5.jpg"
+      },
+      "image": "/images/img5.jpg"
+    }
+  ]
+}
