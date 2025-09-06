@@ -17,7 +17,7 @@ const Stories = () => {
 
   return (
     <div className='flex space-x-4 p-4'>
-      <div>
+      <div className='hidden'>
         {tot=storys.length}
       </div>
       {storys.length > 0 ? (
